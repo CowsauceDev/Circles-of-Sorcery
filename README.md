@@ -15,4 +15,4 @@ Artwork and Textures:
 > 1) download the mod from [Curseforge]()
 > 2) install MCForge 1.16 Recommended from [here](http://files.minecraftforge.net/)
 > 3) drag the mod .jar file into your Mods folder and launch the game!
-> 4) visit the [Wiki]() or drop a Book and Quil into a body of Infused Neptis ingame to unlock all the arcane secrets of the world of Sorcery.
+> 4) visit the [Wiki](https://github.com/CowsauceDev/circlesofsorcery/wiki) or drop a Book and Quil into a body of Infused Neptis ingame to unlock all the arcane secrets of the world of Sorcery.
