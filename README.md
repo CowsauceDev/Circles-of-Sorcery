@@ -7,7 +7,7 @@ No person may redistribute, edit, duplicate, or sell any portion of this project
 
 ## Credits
 Mod author: cowsauce (@cowsauce#6969 on Discord, @sauceofcow on Twitter)
-Assorted ideas and contributions: and ()
+Assorted ideas and contributions: Kilo and ()
 Artwork and Textures: 
 
 ## Getting Started
