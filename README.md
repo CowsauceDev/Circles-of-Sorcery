@@ -8,12 +8,12 @@ No person may redistribute, edit, duplicate, or sell any portion of this project
 ## Credits
 Mod Author: cowsauce  
 Artwork and Textures: cowsauce  
-Assorted ideas and contributions: Kilo and Anonymous  
+Assorted ideas and contributions: Kilo and vukturethera  
   
 Socials: 
 > Jester | @cowsauce#6969 on Discord, @sauceofcow on Twitter  
-> Kilo | N/A  
-> Anonymous | N/A  
+> Kilo | Anonymous  
+> Vulturethera | Anonymous  
 
 ## Getting Started
 
