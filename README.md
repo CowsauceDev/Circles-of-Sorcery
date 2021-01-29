@@ -7,7 +7,9 @@ No person may redistribute, edit, duplicate, or sell any portion of this project
 
 ## Credits
 Mod Author: Jester  
-Artwork and Textures: Jester  
+  
+Coding and Distribution: Jester  
+Artwork and Textures: Jester, Kilo  
 Assorted ideas and contributions: Kilo and vulturethera  
   
 Socials: 
