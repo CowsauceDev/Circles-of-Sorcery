@@ -1,5 +1,9 @@
 # Circles of Sorcery 
-A massive new 1.16 magic mod for Minecraft!
+![GitHub release (latest by date)](https://img.shields.io/github/downloads/cowsaucedev/circlesofsorcery/latest/total?color=blue&label=Downloads&logo=dropbox) ![GitHub issues](https://img.shields.io/github/issues/cowsaucedev/circlesofsorcery?color=blue&logo=github)   
+![Discord](https://img.shields.io/discord/785376924435218463?color=blue&label=Discord&logo=discord&style=for-the-badge) ![Twitter Follow](https://img.shields.io/twitter/follow/feralrain?color=blue&label=Twitter&logo=twitter&style=for-the-badge)  
+A massive new 1.16 magic mod for Minecraft!  
+  
+[blurb here]
 
 ## License
 All code, assets, and original names are Copyright 2021 © Feralrain. All rights reserved.  
