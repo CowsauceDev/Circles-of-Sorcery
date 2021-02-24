@@ -27,4 +27,4 @@ Socials:
 > 4) Visit the [Wiki](https://github.com/CowsauceDev/circlesofsorcery/wiki) or drop a Book and Quil into a body of Infused Neptis ingame to unlock all the arcane secrets of the world of Sorcery.
 
 ## Legal
-Please refer to the [License}(https://github.com/CowsauceDev/Circles-of-Sorcery/blob/main/LICENSE.md) for legal information.
+Please refer to the [License](https://github.com/CowsauceDev/Circles-of-Sorcery/blob/main/LICENSE.md) for legal information.
