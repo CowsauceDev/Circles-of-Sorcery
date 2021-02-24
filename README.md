@@ -12,7 +12,7 @@ Mod Author: Jester
   
 Coding and Distribution: Jester  
 Artwork and Textures: Jester, Kilo  
-Assorted ideas and contributions: Kilo and vulturethera  
+Assorted ideas and contributions: Kilo and Vulturethera  
   
 Socials: 
 > Jester | @cowsauce#6969 on Discord, @sauceofcow on Twitter  
