@@ -7,6 +7,13 @@ A massive new 1.16 magic mod for Minecraft!
   
 [blurb here]
 
+## Getting Started
+
+> 1) Download the mod from the releases section to the left or from [Curseforge](https://www.curseforge.com/minecraft/mc-mods/circles-of-sorcery).
+> 2) Install MCForge 1.16 Recommended from [here](http://files.minecraftforge.net/).
+> 3) Drag the mod .jar file into your Mods folder and launch the game!
+> 4) Visit the [Wiki](https://github.com/CowsauceDev/circlesofsorcery/wiki) or drop a Book and Quil into a body of Infused Neptis ingame to unlock all the arcane secrets of the world of Sorcery.
+
 ## Credits
 Mod Author: Jester  
   
@@ -18,13 +25,6 @@ Socials:
 > Jester | @cowsauce#6969 on Discord, @sauceofcow on Twitter  
 > Kilo | Anonymous  
 > Vulturethera | Anonymous  
-
-## Getting Started
-
-> 1) Download the mod from the releases section to the left or from [Curseforge](https://www.curseforge.com/minecraft/mc-mods/circles-of-sorcery).
-> 2) Install MCForge 1.16 Recommended from [here](http://files.minecraftforge.net/).
-> 3) Drag the mod .jar file into your Mods folder and launch the game!
-> 4) Visit the [Wiki](https://github.com/CowsauceDev/circlesofsorcery/wiki) or drop a Book and Quil into a body of Infused Neptis ingame to unlock all the arcane secrets of the world of Sorcery.
 
 ## Legal
 Please refer to the [License](https://github.com/CowsauceDev/Circles-of-Sorcery/blob/main/LICENSE.md) for legal information.
